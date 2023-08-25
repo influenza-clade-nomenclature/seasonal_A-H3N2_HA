@@ -1,0 +1,13 @@
+clade: '2'
+defining_mutations:
+- HA1:185D
+- HA1:189N
+- HA1:163Q
+- HA1:194F
+- HA1:159I
+- HA1:158N
+- HA1:192S
+parent: E.1
+representatives: []
+subclade: G
+unaliased_subclade: A.2.1.1.2.2.1.2

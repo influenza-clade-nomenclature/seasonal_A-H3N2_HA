@@ -1,0 +1,9 @@
+clade: 3C.3
+defining_mutations:
+- HA1:127A
+- nuc:1312A
+- HA1:141G
+parent: A
+representatives: []
+subclade: A.3
+unaliased_subclade: A.3

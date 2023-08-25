@@ -1,0 +1,9 @@
+clade: 3C.2
+defining_mutations:
+- nuc:709A
+- HA2:159N
+- nuc:1534G
+parent: A
+representatives: []
+subclade: A.2
+unaliased_subclade: A.2

@@ -1,0 +1,9 @@
+clade: 3C.2a1b
+defining_mutations:
+- HA1:141G
+- HA1:61G
+- HA1:310Q
+parent: B.1
+representatives: []
+subclade: B.1.2
+unaliased_subclade: A.2.1.1.2

@@ -1,0 +1,10 @@
+clade: 3C.2a1b.1b
+defining_mutations:
+- HA1:127A
+- HA1:137S
+- HA1:136F
+- HA1:192S
+parent: B.1.2.1
+representatives: []
+subclade: D
+unaliased_subclade: A.2.1.1.2.1.2

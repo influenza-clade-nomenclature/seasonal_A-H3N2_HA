@@ -1,0 +1,9 @@
+clade: 2d
+defining_mutations:
+- HA1:198P
+- HA1:155Q
+- HA1:61R
+parent: G
+representatives: []
+subclade: G.4
+unaliased_subclade: A.2.1.1.2.2.1.2.4

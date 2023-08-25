@@ -1,0 +1,10 @@
+clade: '1'
+defining_mutations:
+- HA1:192S
+- HA1:197P
+- HA1:185S
+- HA1:194F
+parent: E.1
+representatives: []
+subclade: F
+unaliased_subclade: A.2.1.1.2.2.1.1
