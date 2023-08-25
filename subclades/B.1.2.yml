@@ -1,9 +1,15 @@
-clade: 3C.2a1b
-defining_mutations:
-- HA1:141G
-- HA1:61G
-- HA1:310Q
+name: B.1.2
+unaliased_name: A.2.1.1.2
 parent: B.1
 representatives: []
-subclade: B.1.2
-unaliased_subclade: A.2.1.1.2
+defining_mutations:
+- locus: HA1
+  position: 61
+  state: G
+- locus: HA1
+  position: 310
+  state: Q
+- locus: HA1
+  position: 141
+  state: G
+clade: 3C.2a1b

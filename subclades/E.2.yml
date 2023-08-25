@@ -1,10 +1,18 @@
-clade: 3C.2a1b.2b
-defining_mutations:
-- HA1:196R
-- HA1:218F
-- HA2:154G
-- HA2:17M
+name: E.2
+unaliased_name: A.2.1.1.2.2.2
 parent: E
 representatives: []
-subclade: E.2
-unaliased_subclade: A.2.1.1.2.2.2
+defining_mutations:
+- locus: HA2
+  position: 17
+  state: M
+- locus: HA1
+  position: 218
+  state: F
+- locus: HA2
+  position: 154
+  state: G
+- locus: HA1
+  position: 196
+  state: R
+clade: 3C.2a1b.2b

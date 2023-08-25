@@ -1,7 +1,9 @@
-clade: 2a.3a
-defining_mutations:
-- HA1:49K
+name: G.1.3.1
+unaliased_name: A.2.1.1.2.2.1.2.1.3.1
 parent: G.1.3
 representatives: []
-subclade: G.1.3.1
-unaliased_subclade: A.2.1.1.2.2.1.2.1.3.1
+defining_mutations:
+- locus: HA1
+  position: 49
+  state: K
+clade: 2a.3a

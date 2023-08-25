@@ -1,11 +1,21 @@
-clade: 3C.2a
-defining_mutations:
-- HA1:143S
-- HA1:159T
-- HA1:2I
-- nuc:1276A
-- HA1:158Y
+name: B
+unaliased_name: A.2.1
 parent: A.2
 representatives: []
-subclade: B
-unaliased_subclade: A.2.1
+defining_mutations:
+- locus: HA1
+  position: 143
+  state: S
+- locus: HA1
+  position: 159
+  state: T
+- locus: HA1
+  position: 2
+  state: I
+- locus: HA1
+  position: 158
+  state: Y
+- locus: nuc
+  position: 1276
+  state: A
+clade: 3C.2a

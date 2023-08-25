@@ -1,9 +1,15 @@
-clade: 2d
-defining_mutations:
-- HA1:198P
-- HA1:155Q
-- HA1:61R
+name: G.4
+unaliased_name: A.2.1.1.2.2.1.2.4
 parent: G
 representatives: []
-subclade: G.4
-unaliased_subclade: A.2.1.1.2.2.1.2.4
+defining_mutations:
+- locus: HA1
+  position: 61
+  state: R
+- locus: HA1
+  position: 198
+  state: P
+- locus: HA1
+  position: 155
+  state: Q
+clade: 2d

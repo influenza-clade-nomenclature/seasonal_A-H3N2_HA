@@ -15,15 +15,21 @@ CY163680.1	feature	gene	1053	1715	.	+	.	gene_name="HA2"
 Each subclade is defined by a machine readable `yaml` file in the subdirectory `subclades`.
 The yaml-files have the following structure:
 ```
-subclade: B.1.1
-clade: 3C.2a1a
-defining_mutations:
-- HA1:134K
-- HA2:149E
-- nuc:488A
+name: B.1.1
+unaliased_name: A.2.1.1.1
 parent: B.1
 representatives: []
-unaliased_subclade: A.2.1.1.1
+defining_mutations:
+- locus: nuc
+  position: 488
+  state: A
+- locus: HA1
+  position: 134
+  state: K
+- locus: HA2
+  position: 149
+  state: E
+clade: 3C.2a1a
 ```
 The field `clade` is set to `none` when no clade corresponds to the branch demarcating the subclade.
 

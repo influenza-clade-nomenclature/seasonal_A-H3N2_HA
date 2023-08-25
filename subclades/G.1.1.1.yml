@@ -1,8 +1,12 @@
-clade: 2a.1a
-defining_mutations:
-- HA1:261N
-- HA1:156I
+name: G.1.1.1
+unaliased_name: A.2.1.1.2.2.1.2.1.1.1
 parent: G.1.1
 representatives: []
-subclade: G.1.1.1
-unaliased_subclade: A.2.1.1.2.2.1.2.1.1.1
+defining_mutations:
+- locus: HA1
+  position: 156
+  state: I
+- locus: HA1
+  position: 261
+  state: N
+clade: 2a.1a

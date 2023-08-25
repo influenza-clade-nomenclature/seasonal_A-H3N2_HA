@@ -1,11 +1,21 @@
-clade: 3C.3a1
-defining_mutations:
-- HA1:90N
-- HA2:148M
-- HA1:143K
-- HA1:2I
-- HA1:192S
+name: C.1
+unaliased_name: A.3.1.1
 parent: C
 representatives: []
-subclade: C.1
-unaliased_subclade: A.3.1.1
+defining_mutations:
+- locus: HA2
+  position: 148
+  state: M
+- locus: HA1
+  position: 143
+  state: K
+- locus: HA1
+  position: 90
+  state: N
+- locus: HA1
+  position: 2
+  state: I
+- locus: HA1
+  position: 192
+  state: S
+clade: 3C.3a1

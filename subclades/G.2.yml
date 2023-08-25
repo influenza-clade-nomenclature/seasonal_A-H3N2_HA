@@ -1,9 +1,15 @@
-clade: 2b
-defining_mutations:
-- HA1:49K
-- HA1:139K
-- HA1:78V
+name: G.2
+unaliased_name: A.2.1.1.2.2.1.2.2
 parent: G
 representatives: []
-subclade: G.2
-unaliased_subclade: A.2.1.1.2.2.1.2.2
+defining_mutations:
+- locus: HA1
+  position: 139
+  state: K
+- locus: HA1
+  position: 78
+  state: V
+- locus: HA1
+  position: 49
+  state: K
+clade: 2b

@@ -1,10 +1,18 @@
-clade: 3C.3b
-defining_mutations:
-- HA1:82R
-- HA2:17K
-- HA1:260Q
-- HA1:61K
+name: A.3.2
+unaliased_name: A.3.2
 parent: A.3
 representatives: []
-subclade: A.3.2
-unaliased_subclade: A.3.2
+defining_mutations:
+- locus: HA1
+  position: 82
+  state: R
+- locus: HA1
+  position: 260
+  state: Q
+- locus: HA2
+  position: 17
+  state: K
+- locus: HA1
+  position: 61
+  state: K
+clade: 3C.3b

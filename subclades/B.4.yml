@@ -1,12 +1,24 @@
-clade: 3C.2a4
-defining_mutations:
-- HA1:52N
-- HA1:191T
-- HA1:143R
-- HA1:30S
-- HA1:170K
-- HA1:196H
+name: B.4
+unaliased_name: A.2.1.4
 parent: B
 representatives: []
-subclade: B.4
-unaliased_subclade: A.2.1.4
+defining_mutations:
+- locus: HA1
+  position: 191
+  state: T
+- locus: HA1
+  position: 143
+  state: R
+- locus: HA1
+  position: 170
+  state: K
+- locus: HA1
+  position: 52
+  state: N
+- locus: HA1
+  position: 196
+  state: H
+- locus: HA1
+  position: 30
+  state: S
+clade: 3C.2a4

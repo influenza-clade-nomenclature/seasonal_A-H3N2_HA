@@ -1,7 +1,9 @@
-clade: 1a
-defining_mutations:
-- HA1:170N
+name: F.1
+unaliased_name: A.2.1.1.2.2.1.1.1
 parent: F
 representatives: []
-subclade: F.1
-unaliased_subclade: A.2.1.1.2.2.1.1.1
+defining_mutations:
+- locus: HA1
+  position: 170
+  state: N
+clade: 1a

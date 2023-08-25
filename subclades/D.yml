@@ -1,10 +1,18 @@
-clade: 3C.2a1b.1b
-defining_mutations:
-- HA1:127A
-- HA1:137S
-- HA1:136F
-- HA1:192S
+name: D
+unaliased_name: A.2.1.1.2.1.2
 parent: B.1.2.1
 representatives: []
-subclade: D
-unaliased_subclade: A.2.1.1.2.1.2
+defining_mutations:
+- locus: HA1
+  position: 127
+  state: A
+- locus: HA1
+  position: 136
+  state: F
+- locus: HA1
+  position: 137
+  state: S
+- locus: HA1
+  position: 192
+  state: S
+clade: 3C.2a1b.1b

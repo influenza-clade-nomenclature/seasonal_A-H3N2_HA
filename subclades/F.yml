@@ -1,10 +1,18 @@
-clade: '1'
-defining_mutations:
-- HA1:192S
-- HA1:197P
-- HA1:185S
-- HA1:194F
+name: F
+unaliased_name: A.2.1.1.2.2.1.1
 parent: E.1
 representatives: []
-subclade: F
-unaliased_subclade: A.2.1.1.2.2.1.1
+defining_mutations:
+- locus: HA1
+  position: 192
+  state: S
+- locus: HA1
+  position: 185
+  state: S
+- locus: HA1
+  position: 197
+  state: P
+- locus: HA1
+  position: 194
+  state: F
+clade: '1'

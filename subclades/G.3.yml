@@ -1,8 +1,12 @@
-clade: 2c
-defining_mutations:
-- HA1:211T
-- HA1:204F
+name: G.3
+unaliased_name: A.2.1.1.2.2.1.2.3
 parent: G
 representatives: []
-subclade: G.3
-unaliased_subclade: A.2.1.1.2.2.1.2.3
+defining_mutations:
+- locus: HA1
+  position: 211
+  state: T
+- locus: HA1
+  position: 204
+  state: F
+clade: 2c

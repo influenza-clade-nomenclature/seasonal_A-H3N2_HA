@@ -1,9 +1,15 @@
-clade: 3C.3
-defining_mutations:
-- HA1:127A
-- nuc:1312A
-- HA1:141G
+name: A.3
+unaliased_name: A.3
 parent: A
 representatives: []
-subclade: A.3
-unaliased_subclade: A.3
+defining_mutations:
+- locus: HA1
+  position: 127
+  state: A
+- locus: nuc
+  position: 1312
+  state: A
+- locus: HA1
+  position: 141
+  state: G
+clade: 3C.3

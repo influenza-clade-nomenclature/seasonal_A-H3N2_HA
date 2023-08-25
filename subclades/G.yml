@@ -1,13 +1,27 @@
-clade: '2'
-defining_mutations:
-- HA1:185D
-- HA1:189N
-- HA1:163Q
-- HA1:194F
-- HA1:159I
-- HA1:158N
-- HA1:192S
+name: G
+unaliased_name: A.2.1.1.2.2.1.2
 parent: E.1
 representatives: []
-subclade: G
-unaliased_subclade: A.2.1.1.2.2.1.2
+defining_mutations:
+- locus: HA1
+  position: 158
+  state: N
+- locus: HA1
+  position: 163
+  state: Q
+- locus: HA1
+  position: 194
+  state: F
+- locus: HA1
+  position: 185
+  state: D
+- locus: HA1
+  position: 189
+  state: N
+- locus: HA1
+  position: 159
+  state: I
+- locus: HA1
+  position: 192
+  state: S
+clade: '2'
