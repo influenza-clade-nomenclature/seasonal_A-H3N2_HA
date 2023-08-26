@@ -1,0 +1,146 @@
+clade	gene	site	alt
+A	nuc	472	T
+A	HA1	47	I
+A	HA1	44	N
+A.2	clade	A	
+A.2	nuc	1534	G
+A.2	HA2	159	N
+A.2	nuc	709	A
+A.3	clade	A	
+A.3	HA1	127	A
+A.3	nuc	1312	A
+A.3	HA1	141	G
+A.3.2	clade	A.3	
+A.3.2	HA1	82	R
+A.3.2	HA1	260	Q
+A.3.2	HA2	17	K
+A.3.2	HA1	61	K
+B	clade	A.2	
+B	HA1	143	S
+B	HA1	159	T
+B	HA1	2	I
+B	HA1	158	Y
+B	nuc	1276	A
+B.1	clade	B	
+B.1	HA2	154	E
+B.1	HA1	120	K
+B.1	HA2	76	V
+B.1	HA1	170	K
+B.1.1	clade	B.1	
+B.1.1	nuc	488	A
+B.1.1	HA1	134	K
+B.1.1	HA2	149	E
+B.1.2	clade	B.1	
+B.1.2	HA1	61	G
+B.1.2	HA1	310	Q
+B.1.2	HA1	141	G
+B.1.2.1	clade	B.1.2	
+B.1.2.1	HA1	134	K
+B.1.2.1.1	clade	B.1.2.1	
+B.1.2.1.1	HA1	189	N
+B.1.2.1.1	HA1	127	A
+B.1.2.1.1	HA1	137	S
+B.1.2.1.1	HA1	185	D
+B.2	clade	B	
+B.2	HA1	260	Q
+B.2	HA1	130	K
+B.2	HA1	141	K
+B.3	clade	B	
+B.3	HA1	120	K
+B.3	HA1	143	K
+B.4	clade	B	
+B.4	HA1	191	T
+B.4	HA1	143	R
+B.4	HA1	170	K
+B.4	HA1	52	N
+B.4	HA1	196	H
+B.4	HA1	30	S
+C	clade	A.3	
+C	HA1	224	D
+C	HA1	158	S
+C	HA1	137	S
+C	HA1	325	R
+C.1	clade	C	
+C.1	HA2	148	M
+C.1	HA1	143	K
+C.1	HA1	90	N
+C.1	HA1	2	I
+C.1	HA1	192	S
+D	clade	B.1.2.1	
+D	HA1	127	A
+D	HA1	136	F
+D	HA1	137	S
+D	HA1	192	S
+E	clade	B.1.2	
+E	HA1	130	K
+E	HA2	199	I
+E.1	clade	E	
+E.1	HA2	192	M
+E.1	HA1	82	E
+E.1	HA1	93	N
+E.2	clade	E	
+E.2	HA2	17	M
+E.2	HA1	218	F
+E.2	HA2	154	G
+E.2	HA1	196	R
+F	clade	E.1	
+F	HA1	192	S
+F	HA1	185	S
+F	HA1	197	P
+F	HA1	194	F
+F.1	clade	F	
+F.1	HA1	170	N
+F.1.1	clade	F.1	
+F.1.1	HA1	47	T
+G	clade	E.1	
+G	HA1	158	N
+G	HA1	163	Q
+G	HA1	194	F
+G	HA1	185	D
+G	HA1	189	N
+G	HA1	159	I
+G	HA1	192	S
+G.1	clade	G	
+G.1	HA1	155	S
+G.1.1	clade	G.1	
+G.1.1	HA1	52	G
+G.1.1	HA1	275	R
+G.1.1	HA1	103	G
+G.1.1.1	clade	G.1.1	
+G.1.1.1	HA1	156	I
+G.1.1.1	HA1	261	N
+G.1.1.2	clade	G.1.1	
+G.1.1.2	HA1	139	K
+G.1.1.2	HA1	298	K
+G.1.2	clade	G.1	
+G.1.2	HA1	52	G
+G.1.2	HA1	200	K
+G.1.2	HA1	218	Y
+G.1.3	clade	G.1	
+G.1.3	HA1	95	S
+G.1.3	HA1	52	N
+G.1.3	HA1	191	F
+G.1.3.1	clade	G.1.3	
+G.1.3.1	HA1	49	K
+G.1.3.1.1	clade	G.1.3.1	
+G.1.3.1.1	HA1	139	K
+G.1.3.2	clade	G.1.3	
+G.1.3.2	nuc	142	A
+G.1.3.2	HA1	139	M
+G.2	clade	G	
+G.2	HA1	139	K
+G.2	HA1	78	V
+G.2	HA1	49	K
+G.2.1	clade	G.2	
+G.2.1	HA1	134	A
+G.2.1	HA1	261	N
+G.2.2	clade	G.2	
+G.2.2	HA1	32	Q
+G.2.2	HA1	261	N
+G.3	clade	G	
+G.3	HA1	211	T
+G.3	HA1	204	F
+G.4	clade	G	
+G.4	HA1	61	R
+G.4	HA1	198	P
+G.4	HA1	155	Q
