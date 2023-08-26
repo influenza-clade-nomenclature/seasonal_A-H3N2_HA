@@ -35,3 +35,11 @@ The field `clade` is set to `none` when no clade corresponds to the branch demar
 
 
 ## [Subclade summary](.auto-generated/subclades.md)
+
+## Subclade short names (aliases)
+The subclade names are designed with a systematic way to shorten their names inspired by the pango-lineage system for SARS-CoV-2.
+The initial part of the hierarchical names can be collapsed into a single letter (and possibly eventually double letters).
+These aliases are defined in [aliases.json](aliases.json).
+
+
+
