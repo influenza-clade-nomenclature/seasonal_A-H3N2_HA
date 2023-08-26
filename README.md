@@ -32,9 +32,9 @@ The defining mutations are relative using nucleotide and HA coordinates defined 
 ```
 ##gff-version 3
 ##sequence-region CY163680.1 1 1737
-CY163680.1	feature	gene	18	65	.	+	.	gene_name="SigPep"
-CY163680.1	feature	gene	66	1052	.	+	.	gene_name="HA1"
-CY163680.1	feature	gene	1053	1715	.	+	.	gene_name="HA2"
+CY163680.1	feature	mat_peptide	18	65	.	+	.	name="SigPep"
+CY163680.1	feature	mat_peptide	66	1052	.	+	.	name="HA1"
+CY163680.1	feature	mat_peptide	1053	1715	.	+	.	name="HA2"
 ```
 Note that these defining mutations are not exhaustive. They represent a genotypic constellation sufficient to distinguish the clade from its parent.
 
@@ -45,7 +45,8 @@ Note that these defining mutations are not exhaustive. They represent a genotypi
 ## Subclade short names (aliases)
 The subclade names are designed with a systematic way to shorten their names inspired by the pango-lineage system for SARS-CoV-2.
 The initial part of the hierarchical names can be collapsed into a single letter (and possibly eventually double letters).
-These aliases are defined in [aliases.json](aliases.json).
+These aliases are defined in [config/aliases.json](config/aliases.json).
 
 
-
+## Configuration
+Parameters and mutation weights for the automated subclade suggestion algorithm can be found in the directory `config`.

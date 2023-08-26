@@ -1,0 +1,15 @@
+{
+    "tree_url": "https://nextstrain.org/charon/getDataset?prefix=flu/seasonal/h3n2/ha/6y",
+    "proteins": [
+        "HA1",
+        "HA2"
+    ],
+    "max_date": 2020,
+    "min_date": 2030,
+    "cutoff": 1.0,
+    "bushiness_branch_scale": 1,
+    "divergence_scale": 8,
+    "branch_length_scale": 4,
+    "divergence_addition": 1.0,
+    "min_size": 20
+}
