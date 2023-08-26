@@ -1,5 +1,4 @@
-# seasonal_A-H3N2_HA
-Clade and subclade nomenclature for the HA segment of seasonal A/H3N2 influenza viruses.
+# Clade and subclade nomenclature for the HA segment of seasonal A/H3N2 influenza viruses
 
 The defining mutations are relative using nucleotide and HA coordinates defined in
 ```
