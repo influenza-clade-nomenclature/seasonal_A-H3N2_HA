@@ -1,13 +1,9 @@
 # Clade and subclade nomenclature for the HA segment of seasonal A/H3N2 influenza viruses
 
-The defining mutations are relative using nucleotide and HA coordinates defined in
-```
-##gff-version 3
-##sequence-region CY163680.1 1 1737
-CY163680.1	feature	gene	18	65	.	+	.	gene_name="SigPep"
-CY163680.1	feature	gene	66	1052	.	+	.	gene_name="HA1"
-CY163680.1	feature	gene	1053	1715	.	+	.	gene_name="HA2"
-```
+This repository defines clades and subclades of the hemagglutinin segment of seasonal A/H3N2 influenza viruses.
+These clades don't necessarily correspond to groups of viruses with distinct phenotypes but are meant to facilitate discussion of viral genetic diversity.
+In particular subclades are used to capture the frequency dynamics of co-circulating viral variants that often don't have distinct properties.
+
 
 ## Designations
 
@@ -32,6 +28,15 @@ clade: 3C.2a1a
 ```
 The field `clade` is set to `none` when no clade corresponds to the branch demarcating the subclade.
 
+The defining mutations are relative using nucleotide and HA coordinates defined in
+```
+##gff-version 3
+##sequence-region CY163680.1 1 1737
+CY163680.1	feature	gene	18	65	.	+	.	gene_name="SigPep"
+CY163680.1	feature	gene	66	1052	.	+	.	gene_name="HA1"
+CY163680.1	feature	gene	1053	1715	.	+	.	gene_name="HA2"
+```
+Note that these defining mutations are not exhaustive. They represent a genotypic constellation sufficient to distinguish the clade from its parent.
 
 ## [Subclade summary](.auto-generated/subclades.md)
 
