@@ -38,6 +38,8 @@ CY163680.1	feature	gene	1053	1715	.	+	.	gene_name="HA2"
 ```
 Note that these defining mutations are not exhaustive. They represent a genotypic constellation sufficient to distinguish the clade from its parent.
 
+## [Clade summary](.auto-generated/clades.md)
+
 ## [Subclade summary](.auto-generated/subclades.md)
 
 ## [Clade--Subclade correspondence](.auto-generated/subclades.md#clade----subclade-correspondence)
