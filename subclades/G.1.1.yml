@@ -4,12 +4,12 @@ parent: G.1
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 52
+  position: 53
   state: G
 - locus: HA1
-  position: 275
+  position: 104
+  state: G
+- locus: HA1
+  position: 276
   state: R
-- locus: HA1
-  position: 103
-  state: G
 clade: 2a.1

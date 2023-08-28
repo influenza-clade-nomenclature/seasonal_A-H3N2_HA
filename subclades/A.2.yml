@@ -3,13 +3,13 @@ unaliased_name: A.2
 parent: A
 representatives: []
 defining_mutations:
-- locus: nuc
-  position: 1534
-  state: G
 - locus: HA2
-  position: 159
+  position: 160
   state: N
 - locus: nuc
-  position: 709
+  position: 710
   state: A
+- locus: nuc
+  position: 1535
+  state: G
 clade: 3C.2

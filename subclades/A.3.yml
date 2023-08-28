@@ -4,12 +4,12 @@ parent: A
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 127
-  state: A
-- locus: nuc
-  position: 1312
+  position: 128
   state: A
 - locus: HA1
-  position: 141
+  position: 142
   state: G
+- locus: nuc
+  position: 1313
+  state: A
 clade: 3C.3

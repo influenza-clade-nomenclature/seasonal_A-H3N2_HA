@@ -50,3 +50,19 @@ These aliases are defined in [config/aliases.json](config/aliases.json).
 
 ## Configuration
 Parameters and mutation weights for the automated subclade suggestion algorithm can be found in the directory `config`.
+
+## Update auto-generated files
+After adding new clades, run the following commands to update the files generated from the individual yamls.
+```
+# generate the markdown summary of the clade definitions
+python ../helper-scripts/generate_markdown_summary.py --input-dir subclades --lineage h3n2 --segment ha
+
+# generate the tsv file with clade-defining info that can be used to annotate clades in augur
+python ../helper-scripts/construct_tsv.py --input-dir subclades --output-tsv .auto-generated/subclades.tsv
+python ../helper-scripts/construct_tsv.py --input-dir clades --aux-input-dir subclades --flat-output --output-tsv .auto-generated/clades.tsv
+```
+To add the result to the repo, do:
+```
+git add .auto-generated/subclades.tsv .auto-generated/subclades.md
+git commit -m "update auto-generated files"
+```

@@ -4,6 +4,6 @@ parent: G
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 155
+  position: 156
   state: S
 clade: 2a

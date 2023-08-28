@@ -4,6 +4,6 @@ parent: G.1.3
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 49
+  position: 50
   state: K
 clade: 2a.3a

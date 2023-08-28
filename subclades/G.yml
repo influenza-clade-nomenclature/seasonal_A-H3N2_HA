@@ -4,24 +4,24 @@ parent: E.1
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 158
-  state: N
-- locus: HA1
-  position: 163
-  state: Q
-- locus: HA1
-  position: 194
-  state: F
-- locus: HA1
-  position: 185
-  state: D
-- locus: HA1
-  position: 189
-  state: N
-- locus: HA1
   position: 159
+  state: N
+- locus: HA1
+  position: 160
   state: I
 - locus: HA1
-  position: 192
+  position: 164
+  state: Q
+- locus: HA1
+  position: 186
+  state: D
+- locus: HA1
+  position: 190
+  state: N
+- locus: HA1
+  position: 193
   state: S
+- locus: HA1
+  position: 195
+  state: F
 clade: '2'

@@ -3,19 +3,19 @@ unaliased_name: A.3.1.1
 parent: C
 representatives: []
 defining_mutations:
-- locus: HA2
-  position: 148
-  state: M
 - locus: HA1
-  position: 143
-  state: K
-- locus: HA1
-  position: 90
-  state: N
-- locus: HA1
-  position: 2
+  position: 3
   state: I
 - locus: HA1
-  position: 192
+  position: 91
+  state: N
+- locus: HA1
+  position: 144
+  state: K
+- locus: HA1
+  position: 193
   state: S
+- locus: HA2
+  position: 149
+  state: M
 clade: 3C.3a1

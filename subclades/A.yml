@@ -1,21 +1,15 @@
 name: A
 unaliased_name: A
 parent: none
-representatives:
-- isolate: A/Wisconsin/20/2012
-  accession: KC892238
-  source: genbank
-- isolate: A/Victoria/361/2011
-  accession: KM821347
-  source: genbank
+representatives: []
 defining_mutations:
-- locus: nuc
-  position: 472
-  state: T
 - locus: HA1
-  position: 47
-  state: I
-- locus: HA1
-  position: 44
+  position: 45
   state: N
+- locus: HA1
+  position: 48
+  state: I
+- locus: nuc
+  position: 473
+  state: T
 clade: 3C

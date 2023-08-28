@@ -3,16 +3,16 @@ unaliased_name: A.2.1.1.2.2.2
 parent: E
 representatives: []
 defining_mutations:
-- locus: HA2
-  position: 17
-  state: M
 - locus: HA1
-  position: 218
+  position: 197
+  state: R
+- locus: HA1
+  position: 219
   state: F
 - locus: HA2
-  position: 154
+  position: 18
+  state: M
+- locus: HA2
+  position: 155
   state: G
-- locus: HA1
-  position: 196
-  state: R
 clade: 3C.2a1b.2b

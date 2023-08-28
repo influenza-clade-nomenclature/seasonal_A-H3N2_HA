@@ -4,9 +4,9 @@ parent: B.1.2
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 130
+  position: 131
   state: K
 - locus: HA2
-  position: 199
+  position: 200
   state: I
 clade: 3C.2a1b.2

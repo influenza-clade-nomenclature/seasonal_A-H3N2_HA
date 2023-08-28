@@ -4,21 +4,21 @@ parent: B
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 191
-  state: T
+  position: 31
+  state: S
 - locus: HA1
-  position: 143
-  state: R
-- locus: HA1
-  position: 170
-  state: K
-- locus: HA1
-  position: 52
+  position: 53
   state: N
 - locus: HA1
-  position: 196
-  state: H
+  position: 144
+  state: R
 - locus: HA1
-  position: 30
-  state: S
+  position: 171
+  state: K
+- locus: HA1
+  position: 192
+  state: T
+- locus: HA1
+  position: 197
+  state: H
 clade: 3C.2a4

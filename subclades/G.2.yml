@@ -4,12 +4,12 @@ parent: G
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 139
+  position: 50
   state: K
 - locus: HA1
-  position: 78
+  position: 79
   state: V
 - locus: HA1
-  position: 49
+  position: 140
   state: K
 clade: 2b
