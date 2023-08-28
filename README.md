@@ -63,6 +63,6 @@ python ../helper-scripts/construct_tsv.py --input-dir clades --aux-input-dir sub
 ```
 To add the result to the repo, do:
 ```
-git add .auto-generated/subclades.tsv .auto-generated/subclades.md
+git add .auto-generated/subclades.tsv .auto-generated/clades.tsv .auto-generated/subclades.md
 git commit -m "update auto-generated files"
 ```
