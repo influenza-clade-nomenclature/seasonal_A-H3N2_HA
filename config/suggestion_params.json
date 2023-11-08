@@ -4,8 +4,8 @@
         "HA1",
         "HA2"
     ],
-    "max_date": 2020,
-    "min_date": 2030,
+    "max_date": 2030,
+    "min_date": 2020,
     "cutoff": 1.0,
     "bushiness_branch_scale": 1,
     "divergence_scale": 8,
