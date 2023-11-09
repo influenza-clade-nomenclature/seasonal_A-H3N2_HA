@@ -179,12 +179,6 @@
  * clade: 2a.3a
  * [View in Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:G.1.3.1)
 
-## G.1.3.1.1
- * parent: [G.1.3.1](#G131)
- * defining mutations or substitutions: HA1:140K
- * clade: 2a.3a.1
- * [View in Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:G.1.3.1.1)
-
 ## G.1.3.2
  * parent: [G.1.3](#G13)
  * defining mutations or substitutions: HA1:140M, nuc:143A
@@ -219,6 +213,12 @@
  * clade: 2d
  * [View in Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:G.4)
 
+## H
+ * parent: [G.1.3.1](#G131)
+ * defining mutations or substitutions: HA1:140K
+ * clade: 2a.3a.1
+ * [View in Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:H)
+
 # Clade -- subclade correspondence
 |*Clade*|*Subclade*|*full subclade name*|
 |-------------|---------|----------------------|
@@ -252,8 +252,8 @@
 |2a.2|[G.1.2](#G12)|A.2.1.1.2.2.1.2.1.2|
 |2a.3|[G.1.3](#G13)|A.2.1.1.2.2.1.2.1.3|
 |2a.3a|[G.1.3.1](#G131)|A.2.1.1.2.2.1.2.1.3.1|
-|2a.3a.1|[G.1.3.1.1](#G1311)|A.2.1.1.2.2.1.2.1.3.1.1|
 |2a.3b|[G.1.3.2](#G132)|A.2.1.1.2.2.1.2.1.3.2|
 |2b|[G.2](#G2)|A.2.1.1.2.2.1.2.2|
 |2c|[G.3](#G3)|A.2.1.1.2.2.1.2.3|
 |2d|[G.4](#G4)|A.2.1.1.2.2.1.2.4|
+|2a.3a.1|[H](#H)|A.2.1.1.2.2.1.2.1.3.1.1|

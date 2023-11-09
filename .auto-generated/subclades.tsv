@@ -122,8 +122,6 @@ G.1.3	HA1	96	S
 G.1.3	HA1	192	F
 G.1.3.1	clade	G.1.3	
 G.1.3.1	HA1	50	K
-G.1.3.1.1	clade	G.1.3.1	
-G.1.3.1.1	HA1	140	K
 G.1.3.2	clade	G.1.3	
 G.1.3.2	HA1	140	M
 G.1.3.2	nuc	143	A
@@ -144,3 +142,5 @@ G.4	clade	G
 G.4	HA1	62	R
 G.4	HA1	156	Q
 G.4	HA1	199	P
+H	clade	G.1.3.1	
+H	HA1	140	K
