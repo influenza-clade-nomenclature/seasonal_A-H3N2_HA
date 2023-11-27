@@ -141,6 +141,9 @@
  * parent: [G](#G)
  * defining mutations or substitutions: HA1:156S
  * clade: 2a
+ * representative sequences:
+   - [A/Darwin/6/2021](https://www.ncbi.nlm.nih.gov/nuccore/OQ718999).  Accession: OQ718999. [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?c=subclade&label=clade:2a&s=A/Darwin/6/2021)
+   - [A/Darwin/9/2021](https://www.ncbi.nlm.nih.gov/nuccore/OR567121).  Accession: OR567121. [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?c=subclade&label=clade:2a&s=A/Darwin/9/2021)
  * [View in Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:G.1)
 
 ## G.1.1

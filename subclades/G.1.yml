@@ -1,7 +1,15 @@
 name: G.1
 unaliased_name: A.2.1.1.2.2.1.2.1
 parent: G
-representatives: []
+representatives:
+- isolate: A/Darwin/6/2021
+  source: genbank
+  accession: OQ718999
+  other_accession: EPI_ISL_2233238
+- isolate: A/Darwin/9/2021
+  source: genbank
+  accession: OR567121
+  other_accession: EPI_ISL_2233240
 defining_mutations:
 - locus: HA1
   position: 156
