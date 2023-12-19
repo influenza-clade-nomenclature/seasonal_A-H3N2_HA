@@ -222,6 +222,28 @@
  * clade: 2a.3a.1
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:H)
 
+## H.1
+ * parent: [H](#H)
+ * defining mutations or substitutions: HA1:25V, HA2:18M, HA2:89V
+ * representative sequence: A/Sydney/856/2023 (EPI_ISL_18465635) [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?c=subclade&s=A/Sydney/856/2023)
+ * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:H.1)
+
+## H.2
+ * parent: [H](#H)
+ * defining mutations or substitutions: HA1:276E, HA1:122D
+ * representative sequence: A/Sydney/878/2023 (EPI_ISL_18485023) [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?c=subclade&s=A/Sydney/878/2023)
+ * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:H.2)
+
+## H.3
+ * parent: [H](#H)
+ * defining mutations or substitutions: HA2:176I
+ * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:H.3)
+
+## H.4
+ * parent: [H](#H)
+ * defining mutations or substitutions: HA1:173R, HA1:276E, SigPep:3T
+ * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:H.4)
+
 # Clade -- subclade correspondence
 |*Clade*|*Subclade*|*full subclade name*|
 |-------------|---------|----------------------|
