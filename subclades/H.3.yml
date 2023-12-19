@@ -1,0 +1,9 @@
+name: H.3
+unaliased_name: A.2.1.1.2.2.1.2.1.3.1.1.3
+parent: H
+representatives: []
+defining_mutations:
+- locus: HA2
+  position: 176
+  state: I
+clade: none
