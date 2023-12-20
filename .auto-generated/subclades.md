@@ -224,7 +224,7 @@
 
 ## H.1
  * parent: [H](#H)
- * defining mutations or substitutions: HA1:25V, HA2:18M, HA2:89V
+ * defining mutations or substitutions: HA1:25V, HA2:18M
  * representative sequence: A/Sydney/856/2023 (EPI_ISL_18465635) [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?c=subclade&s=A/Sydney/856/2023)
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:H.1)
 
