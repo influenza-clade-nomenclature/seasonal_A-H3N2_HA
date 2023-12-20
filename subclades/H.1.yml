@@ -12,7 +12,4 @@ defining_mutations:
 - locus: HA2
   position: 18
   state: M
-- locus: HA2
-  position: 89
-  state: V
 clade: none
