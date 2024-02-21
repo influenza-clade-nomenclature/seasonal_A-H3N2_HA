@@ -216,34 +216,34 @@
  * clade: 2d
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:G.4)
 
-## ~~H~~
+## ~~H~~ (revoked)
  * parent: [G.1.3.1](#G131)
  * comment: This alias was revoked and renamed to J.4 to avoid confusion with major influenza subtypes.
  * defining mutations or substitutions: HA1:140K
  * clade: 2a.3a.1
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:H)
 
-## ~~H.1~~
+## ~~H.1~~ (revoked)
  * parent: [H](#H)
  * comment: This alias was revoked and renamed to J.1 to avoid confusion with major influenza subtypes.
  * defining mutations or substitutions: HA1:25V, HA2:18M
  * representative sequence: A/Sydney/856/2023 (EPI_ISL_18465635) [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?c=subclade&s=A/Sydney/856/2023)
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:H.1)
 
-## ~~H.2~~
+## ~~H.2~~ (revoked)
  * parent: [H](#H)
  * comment: This alias was revoked and renamed to J.2 to avoid confusion with major influenza subtypes.
  * defining mutations or substitutions: HA1:276E, HA1:122D
  * representative sequence: A/Sydney/878/2023 (EPI_ISL_18485023) [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?c=subclade&s=A/Sydney/878/2023)
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:H.2)
 
-## ~~H.3~~
+## ~~H.3~~ (revoked)
  * parent: [H](#H)
  * comment: This alias was revoked and renamed to J.3 to avoid confusion with major influenza subtypes.
  * defining mutations or substitutions: HA2:176I
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:H.3)
 
-## ~~H.4~~
+## ~~H.4~~ (revoked)
  * parent: [H](#H)
  * comment: This alias was revoked and renamed to J.4 to avoid confusion with major influenza subtypes.
  * defining mutations or substitutions: HA1:173R, HA1:276E, SigPep:3T
