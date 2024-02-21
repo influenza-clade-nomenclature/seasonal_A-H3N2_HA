@@ -1,9 +1,8 @@
-name: H
+name: J
 unaliased_name: A.2.1.1.2.2.1.2.1.3.1.1
 parent: G.1.3.1
 representatives: []
-revoked: true
-comment: "This alias was revoked and renamed to J.4 to avoid confusion with major influenza subtypes."
+comment: "This alias J is a substitute for the revoked H alias."
 defining_mutations:
 - locus: HA1
   position: 140
