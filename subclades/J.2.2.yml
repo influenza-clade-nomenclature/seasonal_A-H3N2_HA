@@ -1,0 +1,14 @@
+name: J.2.2
+parent: J.2
+representatives:
+- isolate: A/Victoria/144/2024
+  source: gisaid
+  accession: EPI_ISL_19050217
+defining_mutations:
+- locus: HA1
+  position: 124
+  state: N
+- locus: HA1
+  position: 65
+  state: K
+clade: none

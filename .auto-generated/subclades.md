@@ -262,11 +262,29 @@
  * representative sequence: A/Sydney/856/2023 (EPI_ISL_18465635) [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?c=subclade&s=A/Sydney/856/2023)
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:J.1)
 
+## J.1.1
+ * parent: [J.1](#J1)
+ * defining mutations or substitutions: HA1:145N, HA2:89I
+ * representative sequence: A/BritishColumbia/RV00920/2023 (EPI_ISL_19034481) [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?c=subclade&s=A/BritishColumbia/RV00920/2023)
+ * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:J.1.1)
+
 ## J.2
  * parent: [J](#J)
  * defining mutations or substitutions: HA1:276E, HA1:122D
  * representative sequence: A/Sydney/878/2023 (EPI_ISL_18485023) [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?c=subclade&s=A/Sydney/878/2023)
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:J.2)
+
+## J.2.1
+ * parent: [J.2](#J2)
+ * defining mutations or substitutions: HA1:79L, HA1:239S
+ * representative sequence: A/WestVirginia/51/2024 (EPI_ISL_19376866) [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?c=subclade&s=A/WestVirginia/51/2024)
+ * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:J.2.1)
+
+## J.2.2
+ * parent: [J.2](#J2)
+ * defining mutations or substitutions: HA1:124N, HA1:65K
+ * representative sequence: A/Victoria/144/2024 (EPI_ISL_19050217) [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?c=subclade&s=A/Victoria/144/2024)
+ * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:J.2.2)
 
 ## J.3
  * parent: [J](#J)

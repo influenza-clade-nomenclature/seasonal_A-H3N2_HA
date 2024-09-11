@@ -1,0 +1,14 @@
+name: J.1.1
+parent: J.1
+representatives:
+- isolate: A/BritishColumbia/RV00920/2023
+  source: gisaid
+  accession: EPI_ISL_19034481
+defining_mutations:
+- locus: HA1
+  position: 145
+  state: N
+- locus: HA2
+  position: 89
+  state: I
+clade: none
