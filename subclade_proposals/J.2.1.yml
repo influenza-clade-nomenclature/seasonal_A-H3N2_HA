@@ -1,0 +1,14 @@
+name: J.2.1
+parent: J.2
+representatives:
+- isolate: A/WestVirginia/51/2024
+  source: gisaid
+  accession: EPI_ISL_19376866
+defining_mutations:
+- locus: HA1
+  position: 79
+  state: L
+- locus: HA1
+  position: 239
+  state: S
+clade: none
