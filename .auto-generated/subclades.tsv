@@ -147,9 +147,17 @@ J	HA1	140	K
 J.1	clade	J	
 J.1	HA1	25	V
 J.1	HA2	18	M
+J.1.1	clade	J.1	
+J.1.1	HA1	145	N
+J.1.1	HA2	89	I
 J.2	clade	J	
 J.2	HA1	276	E
 J.2	HA1	122	D
+J.2.1	clade	J.2	
+J.2.1	HA1	79	L
+J.2.1	HA1	239	S
+J.2.2	clade	J.2	
+J.2.2	HA1	124	N
 J.3	clade	J	
 J.3	HA2	176	I
 J.4	clade	J	
