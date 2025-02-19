@@ -158,22 +158,22 @@ J.2.1	HA1	79	L
 J.2.1	HA1	239	S
 J.2.2	clade	J.2	
 J.2.2	HA1	124	N
-J.2.a	clade	J.2	
-J.2.a	nuc	404	T
-J.2.a	HA1	8	D
-J.2.a	HA2	18	M
-J.2.b	clade	J.2	
-J.2.b	nuc	404	T
-J.2.b	HA1	135	K
-J.2.c	clade	J.2	
-J.2.c	nuc	125	G
-J.2.c	HA1	145	N
-J.2.d	clade	J.2	
-J.2.d	nuc	732	A
-J.2.d	HA1	223	I
-J.2.e	clade	J.2	
-J.2.e	HA1	124	R
-J.2.e	HA1	145	N
+J.2:124R-145N	clade	J.2	
+J.2:124R-145N	HA1	124	R
+J.2:124R-145N	HA1	145	N
+J.2:135K	clade	J.2	
+J.2:135K	nuc	404	T
+J.2:135K	HA1	135	K
+J.2:145N	clade	J.2	
+J.2:145N	nuc	125	G
+J.2:145N	HA1	145	N
+J.2:223I	clade	J.2	
+J.2:223I	nuc	732	A
+J.2:223I	HA1	223	I
+J.2:8D	clade	J.2	
+J.2:8D	nuc	404	T
+J.2:8D	HA1	8	D
+J.2:8D	HA2	18	M
 J.3	clade	J	
 J.3	HA2	176	I
 J.4	clade	J	
