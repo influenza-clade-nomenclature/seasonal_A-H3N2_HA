@@ -286,6 +286,18 @@
  * representative sequence: A/Victoria/144/2024 (EPI_ISL_19050217) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Victoria/144/2024)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:J.2.2)
 
+## J.2.3
+ * parent: [J.2](#J2)
+ * defining mutations or substitutions: HA1:189R, HA1:158K, HA2:49N, nuc:539G
+ * representative sequence: A/Colombia/1851/2024 (EPI3956321) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Colombia/1851/2024)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:J.2.3)
+
+## J.2.4
+ * parent: [J.2](#J2)
+ * defining mutations or substitutions: HA1:189R, HA1:135K, nuc:469A, nuc:1568A
+ * representative sequence: A/Qatar/78253/2024 (EPI4213403) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Qatar/78253/2024)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:J.2.4)
+
 ## J.3
  * parent: [J](#J)
  * defining mutations or substitutions: HA2:176I

@@ -158,6 +158,16 @@ J.2.1	HA1	79	L
 J.2.1	HA1	239	S
 J.2.2	clade	J.2	
 J.2.2	HA1	124	N
+J.2.3	clade	J.2	
+J.2.3	HA1	189	R
+J.2.3	HA1	158	K
+J.2.3	HA2	49	N
+J.2.3	nuc	539	G
+J.2.4	clade	J.2	
+J.2.4	HA1	189	R
+J.2.4	HA1	135	K
+J.2.4	nuc	469	A
+J.2.4	nuc	1568	A
 J.3	clade	J	
 J.3	HA2	176	I
 J.4	clade	J	
