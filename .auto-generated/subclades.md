@@ -298,6 +298,12 @@
  * representative sequence: A/Qatar/78253/2024 (EPI4213403) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Qatar/78253/2024)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:J.2.4)
 
+## J.2.5
+ * parent: [J.2](#J2)
+ * defining mutations or substitutions: HA1:104N, HA1:145N, HA1:158K
+ * representative sequence: A/Arizona/20/2025 (EPI4045726) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Arizona/20/2025)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:J.2.5)
+
 ## J.3
  * parent: [J](#J)
  * defining mutations or substitutions: HA2:176I
