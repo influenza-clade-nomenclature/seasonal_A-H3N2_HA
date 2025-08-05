@@ -1,3 +1,7 @@
+# 2025-08-05
+
+ - add subclade [J.2.5](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_HA/blob/aedcba677b359da0ebc18e74c69218f75c516a59/subclades/J.2.5.yml) with HA1 104N, 145N, and 158K
+
 # 2025-07-30
 
  - add subclade [J.2.3](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_HA/blob/d79c221035496f273b7e2a31152b21df990a21b4/subclades/J.2.3.yml) with HA1 189R and 158K
