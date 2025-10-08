@@ -16,7 +16,7 @@
 This update adds additional subclades to split up J.1 and J.2. Specifically, the subclade nomenclature now includes
  - `J.1.1` with substitutions HA1:145N and HA2:89SI
  - `J.2.1` with substitutions HA1 79L and 229S
- - `J.2.1` with substitutions HA1 124N
+ - `J.2.2` with substitutions HA1 124N
 
 # 2024-02-22
 After discussion with various members of the seasonal influenza virus surveillance community, it was decided that subclade names starting with `H` have the potential to be confused with major influenza hemagglutinin subtypes. These subclades where therefore renamed to start with the alias `J`.
