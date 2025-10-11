@@ -13,12 +13,18 @@ representatives:
   accession: EPI4739151
 defining_mutations:
 - locus: HA1
-  position: 173
-  state: R
+  position: 2
+  state: N
 - locus: HA1
   position: 144
   state: N
 - locus: HA1
-  position: 2
-  state: N
+  position: 158
+  state: D
+- locus: HA1
+  position: 160
+  state: K
+- locus: HA1
+  position: 173
+  state: R
 clade: none
