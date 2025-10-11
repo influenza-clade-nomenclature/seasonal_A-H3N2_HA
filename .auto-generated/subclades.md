@@ -300,7 +300,7 @@
 
 ## J.2.4.1
  * parent: [J.2.4](#J24)
- * defining mutations or substitutions: HA1:173R, HA1:144N, HA1:2N
+ * defining mutations or substitutions: HA1:2N, HA1:144N, HA1:158D, HA1:160K, HA1:173R
  * representative sequences:
    - A/Wisconsin/114/2025 ([PX445315](https://www.ncbi.nlm.nih.gov/nuccore/PX445315)) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Wisconsin/114/2025)
    - A/Massachusetts/106/2025 ([PX445235](https://www.ncbi.nlm.nih.gov/nuccore/PX445235)) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Massachusetts/106/2025)
