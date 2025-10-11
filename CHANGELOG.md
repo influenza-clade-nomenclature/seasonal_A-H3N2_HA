@@ -1,3 +1,7 @@
+# 2025-10-11
+
+ - designate [J.2.4.1](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_HA/blob/main/subclades/J.2.4.1.yml) subclade with HA1 substitutions 2N, 144N, 158D, 160K, 173R, 328A.
+
 # 2025-08-20
 
 - fix unaliased names of recent J.2 subclade definitions.

@@ -1,0 +1,24 @@
+name: J.2.4.1
+parent: J.2.4
+unaliased_name: A.2.1.1.2.2.1.2.1.3.1.1.2.4.1
+representatives:
+- isolate: A/Wisconsin/114/2025
+  source: genbank
+  accession: PX445315
+- isolate: A/Massachusetts/106/2025
+  source: genbank
+  accession: PX445235
+- isolate: A/South Australia/2527007683/2025
+  source: gisaid
+  accession: EPI4739151
+defining_mutations:
+- locus: HA1
+  position: 173
+  state: R
+- locus: HA1
+  position: 144
+  state: N
+- locus: HA1
+  position: 2
+  state: N
+clade: none
