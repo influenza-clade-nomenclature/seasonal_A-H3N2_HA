@@ -168,12 +168,6 @@ J.2.4	HA1	189	R
 J.2.4	HA1	135	K
 J.2.4	nuc	469	A
 J.2.4	nuc	1568	A
-J.2.4.1	clade	J.2.4	
-J.2.4.1	HA1	2	N
-J.2.4.1	HA1	144	N
-J.2.4.1	HA1	158	D
-J.2.4.1	HA1	160	K
-J.2.4.1	HA1	173	R
 J.2.5	clade	J.2	
 J.2.5	HA1	104	N
 J.2.5	HA1	145	N
@@ -184,3 +178,9 @@ J.4	clade	J
 J.4	HA1	173	R
 J.4	HA1	276	E
 J.4	SigPep	3	T
+K	clade	J.2.4	
+K	HA1	2	N
+K	HA1	144	N
+K	HA1	158	D
+K	HA1	160	K
+K	HA1	173	R
