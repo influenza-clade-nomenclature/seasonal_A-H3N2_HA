@@ -1,6 +1,9 @@
+# 2025-10-28
+ - alias J.2.4.1 as [K](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_HA/blob/main/subclades/K.yml)
+
 # 2025-10-11
 
- - designate [J.2.4.1](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_HA/blob/main/subclades/J.2.4.1.yml) subclade with HA1 substitutions 2N, 144N, 158D, 160K, 173R, 328A.
+ - designate [J.2.4.1](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_HA/blob/8d7053e09c47db481c3a1ecdc840b8afd5f30e3c/subclades/J.2.4.1.yml) subclade with HA1 substitutions 2N, 144N, 158D, 160K, 173R, 328A.
 
 # 2025-08-20
 
