@@ -24,6 +24,7 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:A.3.2)
 
 ## B
+ * alias of: A.2.1
  * parent: [A.2](#A2)
  * defining mutations or substitutions: HA1:3I, HA1:144S, HA1:159Y, HA1:160T, nuc:1277A
  * clade: 3C.2a
@@ -78,6 +79,7 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.4)
 
 ## C
+ * alias of: A.3.1
  * parent: [A.3](#A3)
  * defining mutations or substitutions: HA1:138S, HA1:159S, HA1:225D, HA1:326R
  * clade: 3C.3a
@@ -90,12 +92,14 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.1)
 
 ## D
+ * alias of: B.1.2.1.2
  * parent: [B.1.2.1](#B121)
  * defining mutations or substitutions: HA1:128A, HA1:137F, HA1:138S, HA1:193S
  * clade: 3C.2a1b.1b
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:D)
 
 ## E
+ * alias of: B.1.2.2
  * parent: [B.1.2](#B12)
  * defining mutations or substitutions: HA1:131K, HA2:200I
  * clade: 3C.2a1b.2
@@ -114,6 +118,7 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:E.2)
 
 ## F
+ * alias of: E.1.1
  * parent: [E.1](#E1)
  * defining mutations or substitutions: HA1:186S, HA1:193S, HA1:195F, HA1:198P
  * clade: 1
@@ -132,6 +137,7 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:F.1.1)
 
 ## G
+ * alias of: E.1.2
  * parent: [E.1](#E1)
  * defining mutations or substitutions: HA1:159N, HA1:160I, HA1:164Q, HA1:186D, HA1:190N, HA1:193S, HA1:195F
  * clade: 2
@@ -250,6 +256,7 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:H.4)
 
 ## J
+ * alias of: G.1.3.1.1
  * parent: [G.1.3.1](#G131)
  * comment: This alias J is a substitute for the revoked H alias.
  * defining mutations or substitutions: HA1:140K
@@ -315,12 +322,13 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:J.4)
 
 ## K
+ * alias of: J.2.4.1
  * parent: [J.2.4](#J24)
  * defining mutations or substitutions: HA1:2N, HA1:144N, HA1:158D, HA1:160K, HA1:173R
  * representative sequences:
    - A/Wisconsin/114/2025 ([PX445315](https://www.ncbi.nlm.nih.gov/nuccore/PX445315)) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Wisconsin/114/2025)
    - A/Massachusetts/106/2025 ([PX445235](https://www.ncbi.nlm.nih.gov/nuccore/PX445235)) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Massachusetts/106/2025)
-   - A/South Australia/2527007683/2025 (EPI4739151) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/South Australia/2527007683/2025)
+   - A/South Australia/2527007683/2025 (EPI4739151) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/South%20Australia/2527007683/2025)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:K)
 
 # Clade -- subclade correspondence
