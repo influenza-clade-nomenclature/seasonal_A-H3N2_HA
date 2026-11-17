@@ -1,3 +1,10 @@
+# 2026-11-17
+Designate subclade K.1 -- K.4
+- [K.1](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_HA/blob/main/subclades/K.1.yml)
+- [K.2](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_HA/blob/main/subclades/K.2.yml)
+- [K.3](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_HA/blob/main/subclades/K.3.yml)
+- [K.4](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_HA/blob/main/subclades/K.4.yml)
+
 # 2026-08-05
 - add subclade [J.2.4.2](https://github.com/influenza-clade-nomenclature/seasonal_A-H3N2_HA/blob/main/subclades/J.2.4.2.yml). This subclade is a sibling of subclade K sharing a number of important substitutions with K, but is circulating as a sibling lineage the characteristic additional substitution HA1:K79V
 

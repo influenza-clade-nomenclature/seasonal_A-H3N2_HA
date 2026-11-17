@@ -1,0 +1,24 @@
+name: K.2
+parent: K
+unaliased_name: A.2.1.1.2.2.1.2.1.3.1.1.2.4.1.2
+representatives:
+- isolate: A/Virginia/GKISBBBJ11551/2026
+  source: gisaid
+  accession: EPI5506880
+- isolate: A/Togo/0943/2026
+  source: gisaid
+  accession: EPI5690745
+- isolate: A/Hungary/101501-UPL26-001432/2026
+  source: gisaid
+  accession: EPI5274549
+- isolate: A/Ghana/4991/2026
+  source: gisaid
+  accession: EPI5594462
+defining_mutations:
+- locus: HA1
+  position: 244
+  state: M
+- locus: HA1
+  position: 205
+  state: F
+clade: none

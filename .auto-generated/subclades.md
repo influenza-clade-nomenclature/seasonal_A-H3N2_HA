@@ -340,6 +340,45 @@
    - A/South Australia/2527007683/2025 (EPI4739151) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/South%20Australia/2527007683/2025)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:K)
 
+## K.1
+ * parent: [K](#K)
+ * defining mutations or substitutions: HA1:79I, HA1:207Q
+ * representative sequences:
+   - A/WesternAustralia/2534415989/2025 (EPI5546462) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/WesternAustralia/2534415989/2025)
+   - A/NewYork/PV316468/2026 (EPI5687210) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/NewYork/PV316468/2026)
+   - A/Georgia/38/2026 (EPI5592901) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Georgia/38/2026)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:K.1)
+
+## K.2
+ * parent: [K](#K)
+ * defining mutations or substitutions: HA1:244M, HA1:205F
+ * representative sequences:
+   - A/Virginia/GKISBBBJ11551/2026 (EPI5506880) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Virginia/GKISBBBJ11551/2026)
+   - A/Togo/0943/2026 (EPI5690745) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Togo/0943/2026)
+   - A/Hungary/101501-UPL26-001432/2026 (EPI5274549) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Hungary/101501-UPL26-001432/2026)
+   - A/Ghana/4991/2026 (EPI5594462) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Ghana/4991/2026)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:K.2)
+
+## K.3
+ * parent: [K](#K)
+ * defining mutations or substitutions: HA1:6D, HA1:95G, HA1:145N
+ * representative sequences:
+   - A/Wisconsin/82/2026 (EPI5705553) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Wisconsin/82/2026)
+   - A/Victoria/262/2026 (EPI5540261) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Victoria/262/2026)
+   - A/Victoria/344/2026 (EPI5615703) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Victoria/344/2026)
+   - A/TOKYO/EIS15-291/2026 (EPI5744284) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/TOKYO/EIS15-291/2026)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:K.3)
+
+## K.4
+ * parent: [K](#K)
+ * defining mutations or substitutions: HA1:328T
+ * representative sequences:
+   - A/Victoria/249/2026 (EPI5533636) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Victoria/249/2026)
+   - A/Norway/05868/2026 (EPI5690302) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Norway/05868/2026)
+   - A/Navarra/1477/2026 (EPI5587166) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/Navarra/1477/2026)
+   - A/TOKYO/EIS15-150/2026 (EPI5548320) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?c=subclade&s=A/TOKYO/EIS15-150/2026)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h3n2/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:K.4)
+
 # Clade -- subclade correspondence
 |*Clade*|*Subclade*|*full subclade name*|
 |-------------|---------|----------------------|
