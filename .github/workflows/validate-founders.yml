@@ -1,0 +1,48 @@
+name: Validate founder sequences
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repository
+        uses: actions/checkout@v4
+
+      - name: Check out helper-scripts
+        uses: actions/checkout@v4
+        with:
+          repository: influenza-clade-nomenclature/helper-scripts
+          path: .helper-scripts
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install biopython pyyaml
+
+      # Fails if a subclade lacks a founder, if a founder does not carry its own
+      # defining mutations, or if it is identical to the founder of its parent.
+      - name: Assemble and validate founder sequences
+        run: |
+          python .helper-scripts/assemble_founders.py \
+            --input-dir subclades \
+            --reference config/reference.fasta \
+            --annotation config/annotation.gff \
+            --output-fasta /tmp/founders.fasta \
+            --output-representatives /tmp/representatives.tsv \
+            --strict
+
+      - name: Check that the auto-generated files are up to date
+        run: |
+          for f in founders.fasta representatives.tsv; do
+            if ! diff -q /tmp/$f .auto-generated/$f > /dev/null; then
+              echo "::error file=.auto-generated/$f::.auto-generated/$f is out of date, regenerate it with assemble_founders.py"
+              diff /tmp/$f .auto-generated/$f | head -20
+              exit 1
+            fi
+          done
