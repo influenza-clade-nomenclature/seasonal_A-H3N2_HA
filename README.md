@@ -90,7 +90,11 @@ python ../helper-scripts/construct_tsv.py --input-dir clades --aux-input-dir sub
 python ../helper-scripts/construct_tsv.py --input-dir clades --aux-input-dir subclades --flat-output --output-tsv .auto-generated/clades-long.tsv
 
 # compute founders of new subclades from representative sequences aligned to the reference
-# (e.g. nextclade run --input-ref config/reference.fasta --output-fasta representatives.aligned.fasta representatives.fasta)
+# nextclade run --gap-alignment-side right --input-ref config/reference.fasta \
+#     --input-annotation config/annotation.gff \
+#     --output-fasta representatives.aligned.fasta representatives.fasta
+# The gap alignment side matters: nextclade defaults to `left`, which places a deletion in a
+# repeat further 3' than the convention used here (e.g. B/Vic HA1 162-164 at nucleotides 562-570).
 python ../helper-scripts/compute_founders.py --input-dir subclades --reference config/reference.fasta --annotation config/annotation.gff \
        --sequences representatives.aligned.fasta
 
