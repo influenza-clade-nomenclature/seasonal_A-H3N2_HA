@@ -11,3 +11,11 @@ defining_mutations:
   position: 200
   state: I
 clade: 3C.2a1b.2
+founder:
+  method: ancestral-inference
+  provenance: "nextstrain/seasonal-flu@ac3eaede:nextclade/config/h3n2/ha/CY163680/founder_sequences.fasta"
+  mutations:
+  - {position: 457, state: 'A'}
+  - {position: 458, state: 'A'}
+  - {position: 1379, state: 'C'}
+  - {position: 1650, state: 'A'}

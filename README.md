@@ -43,6 +43,25 @@ CY163680.1	feature	mat_peptide	66	1052	.	+	.	name="HA1"
 CY163680.1	feature	mat_peptide	1053	1715	.	+	.	name="HA2"
 ```
 Note that these defining mutations are not exhaustive. They represent a genotypic constellation sufficient to distinguish the clade from its parent.
+The reference sequence and annotation are available in [config/reference.fasta](config/reference.fasta) and [config/annotation.gff](config/annotation.gff).
+
+## Founder sequences and representatives
+In addition to the defining mutations, each subclade yaml carries a `founder` block that specifies the full nucleotide sequence of the founder of the subclade as differences to the founder of its parent (or to the reference for the root):
+```
+founder:
+  method: representative-consensus
+  provenance: "consensus of A/WesternAustralia/2534415989/2025, A/Georgia/38/2026"
+  mutations:
+  - {position: 300, state: 'A'}
+```
+Positions are 1-based nucleotide positions in the reference.
+Founders of new subclades are computed from at least two representative sequences: a position differs from the parent founder only if all representatives with coverage at this position agree on a state different from the parent founder.
+Representatives should therefore be well-covered sequences that sample the basal diversity of the subclade.
+Positions a representative does not cover are ignored, as are gaps beyond the ends of its aligned range, so poorly covered representatives weaken a founder rather than corrupting it.
+When fewer than two representatives cover a position, the founder keeps the state of its parent.
+Founders seeded from ancestral sequence reconstruction are marked with `method: ancestral-inference`.
+Every founder is checked to carry its own defining mutations; `assemble_founders.py --strict` fails if it does not.
+The assembled founder sequences and the list of representatives are available in [.auto-generated/founders.fasta](.auto-generated/founders.fasta) and [.auto-generated/representatives.tsv](.auto-generated/representatives.tsv).
 
 ## [Subclade summary](.auto-generated/subclades.md)
 
@@ -70,7 +89,16 @@ python ../helper-scripts/construct_tsv.py --input-dir subclades subclade-proposa
 python ../helper-scripts/construct_tsv.py --input-dir clades --aux-input-dir subclades --flat-output --use-short-name --output-tsv .auto-generated/clades.tsv
 python ../helper-scripts/construct_tsv.py --input-dir clades --aux-input-dir subclades --flat-output --output-tsv .auto-generated/clades-long.tsv
 
+# compute founders of new subclades from representative sequences aligned to the reference
+# (e.g. nextclade run --input-ref config/reference.fasta --output-fasta representatives.aligned.fasta representatives.fasta)
+python ../helper-scripts/compute_founders.py --input-dir subclades --reference config/reference.fasta --annotation config/annotation.gff \
+       --sequences representatives.aligned.fasta
+
+# assemble and validate founder sequences, and list representatives
+python ../helper-scripts/assemble_founders.py --input-dir subclades --reference config/reference.fasta --annotation config/annotation.gff --strict \
+       --output-fasta .auto-generated/founders.fasta --output-representatives .auto-generated/representatives.tsv
+
 # To add the result to the repo, do:
-git add .auto-generated/subclades.tsv  .auto-generated/subclade-proposals.tsv  .auto-generated/clades.tsv .auto-generated/clades-long.tsv .auto-generated/subclades.md .auto-generated/subclade-summary.tsv .auto-generated/subclade.nwk
+git add .auto-generated/subclades.tsv  .auto-generated/subclade-proposals.tsv  .auto-generated/clades.tsv .auto-generated/clades-long.tsv .auto-generated/subclades.md .auto-generated/subclade-summary.tsv .auto-generated/subclade.nwk .auto-generated/founders.fasta .auto-generated/representatives.tsv
 git commit -m "update auto-generated files"
 ```

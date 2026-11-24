@@ -22,3 +22,16 @@ defining_mutations:
   position: 197
   state: H
 clade: 3C.2a4
+founder:
+  method: ancestral-inference
+  provenance: "nextstrain/seasonal-flu@ac3eaede:nextclade/config/h3n2/ha/CY163680/founder_sequences.fasta"
+  mutations:
+  - {position: 157, state: 'G'}
+  - {position: 222, state: 'A'}
+  - {position: 287, state: 'C'}
+  - {position: 489, state: 'G'}
+  - {position: 495, state: 'C'}
+  - {position: 578, state: 'A'}
+  - {position: 640, state: 'C'}
+  - {position: 656, state: 'T'}
+  - {position: 1574, state: 'A'}

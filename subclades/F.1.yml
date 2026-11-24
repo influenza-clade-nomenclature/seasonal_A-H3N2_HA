@@ -7,3 +7,8 @@ defining_mutations:
   position: 171
   state: N
 clade: 1a
+founder:
+  method: ancestral-inference
+  provenance: "nextstrain/seasonal-flu@ac3eaede:nextclade/config/h3n2/ha/CY163680/founder_sequences.fasta"
+  mutations:
+  - {position: 578, state: 'T'}
