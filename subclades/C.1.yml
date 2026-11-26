@@ -19,3 +19,27 @@ defining_mutations:
   position: 149
   state: M
 clade: 3C.3a1
+founder:
+  method: ancestral-inference
+  provenance: "nextstrain/seasonal-flu@ac3eaede:nextclade/config/h3n2/ha/CY163680/founder_sequences.fasta"
+  mutations:
+  - {position: 43, state: 'G'}
+  - {position: 72, state: 'A'}
+  - {position: 200, state: 'C'}
+  - {position: 326, state: 'C'}
+  - {position: 337, state: 'A'}
+  - {position: 383, state: 'A'}
+  - {position: 392, state: 'A'}
+  - {position: 497, state: 'A'}
+  - {position: 608, state: 'T'}
+  - {position: 643, state: 'C'}
+  - {position: 782, state: 'A'}
+  - {position: 893, state: 'G'}
+  - {position: 932, state: 'A'}
+  - {position: 977, state: 'A'}
+  - {position: 1166, state: 'T'}
+  - {position: 1259, state: 'G'}
+  - {position: 1499, state: 'G'}
+  - {position: 1502, state: 'G'}
+  - {position: 1530, state: 'A'}
+  - {position: 1656, state: 'C'}
